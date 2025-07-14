@@ -27,11 +27,11 @@ Importance in DevOps:
   A single pom.xml means everyone shares the same build contract.
 
 Common Commands:
-mvn clean                # Delete target directory  
-mvn compile              # Compile source code  
-mvn test                 # Run unit tests  
-mvn install              # Install to local repository  
-mvn dependency:tree      # View dependency tree  
+mvn clean                    #Delete target directory  
+mvn compile                  #Compile source code  
+mvn test                     #Run unit tests  
+mvn install                  #Install to local repository  
+mvn dependency:tree          #View dependency tree  
 
 # Installing and Configuring Apache Maven:
 
